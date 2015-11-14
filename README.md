@@ -13,3 +13,4 @@ Render | 0 | Wszystkie pozostałe takie jak kamera, światła itp.
 
 ![hierarchia](/Hierarchia.jpg)
 	
+Siemka
